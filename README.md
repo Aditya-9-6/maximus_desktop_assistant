@@ -2,6 +2,7 @@
 
 Maximus is a powerful, voice-activated desktop assistant powered by Google's Gemini API (Gemini 2.0 Flash). It can perform various tasks such as answering questions include math, playing YouTube videos, checking weather, and more.
 
+
 ## Features
 - **AI-Powered**: Uses Google Gemini 2.0 for intelligent conversation.
 - **Voice Interaction**: Speaks responses and listens for commands.
@@ -39,3 +40,5 @@ Then open [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
 ## Deployment
 This project is configured for local deployment. 
+# maximus_desktop_assistant
+an open ai desktop assistant which is used to help in  simple tasks
