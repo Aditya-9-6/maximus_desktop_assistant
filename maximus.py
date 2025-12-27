@@ -18,7 +18,7 @@ Features:
 - Fun jokes/facts (pyjokes / useless facts)
 - Optional OCR (pytesseract) if Tesseract installed
 - Robust error handling & help command
-- ChatGPT-powered witty responses
+- Gemini-powered witty responses
 - Wake word listener
 - ALL OUTPUTS ARE NOW SPOKEN.
 """
