@@ -1,0 +1,10 @@
+pywhatkit
+wikipedia
+geocoder
+dateparser
+sympy
+google-api-python-client
+google-auth-oauthlib
+langdetect
+googletrans==3.1.0a0
+pyjokes

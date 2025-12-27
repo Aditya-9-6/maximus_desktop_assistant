@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment Variables (Keep your API Keys secret!)
+.env
+
+# Google Auth & Credentials
+credentials.json
+token.pickle
+
+# Local Databases & User History
+memory.json
+tasks.json
+contacts.json
+db.sqlite3
+
+# Media & Temp
+screenshot.png
+*.log
