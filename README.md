@@ -56,4 +56,5 @@ Then open [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 ## Deployment
 This project is configured for local deployment. 
 # maximus_desktop_assistant
-an open ai desktop assistant which is used to help in  simple tasks
+an ai desktop assistant which is used to help in  simple tasks
+
